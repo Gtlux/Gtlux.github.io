@@ -6,8 +6,31 @@
     <description>Recent content on Jaroslav Vetrenko tinklaraštis</description>
     <generator>Hugo</generator>
     <language>lt-lt</language>
-    <lastBuildDate>Sun, 15 Nov 2026 21:07:51 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:22:11 +0200</lastBuildDate>
     <atom:link href="https://gtlux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Įrasas su paveiksliuku ir kodu</title>
+      <link>https://gtlux.github.io/posts/antras-irasas/</link>
+      <pubDate>Sun, 15 Nov 2026 21:22:11 +0200</pubDate>
+      <guid>https://gtlux.github.io/posts/antras-irasas/</guid>
+      <description>&lt;p&gt;Šiame įraše yra paveiksliukas ir kodo pavyzdys.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://gtlux.github.io/images/paveiksliukas.gif&#34;
+         alt=&#34;Mano paveiksliukas&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Mano paveiksliukas&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;labas&lt;/span&gt;(vardas):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#x20;   return f&amp;#34;Labas, {vardas}!&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(labas(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;pasauli&amp;#34;&lt;/span&gt;))
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Pirmas Irašas</title>
       <link>https://gtlux.github.io/posts/pirmas-irasas/</link>
