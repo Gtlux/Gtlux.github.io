@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jaroslav Vetrenko tinklaraštis</title>
+    <link>https://gtlux.github.io/</link>
+    <description>Recent content on Jaroslav Vetrenko tinklaraštis</description>
+    <generator>Hugo</generator>
+    <language>lt-lt</language>
+    <lastBuildDate>Sun, 15 Nov 2026 21:07:51 +0200</lastBuildDate>
+    <atom:link href="https://gtlux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas Irašas</title>
+      <link>https://gtlux.github.io/posts/pirmas-irasas/</link>
+      <pubDate>Sun, 15 Nov 2026 21:07:51 +0200</pubDate>
+      <guid>https://gtlux.github.io/posts/pirmas-irasas/</guid>
+      <description>&lt;p&gt;Sveiki! Tai mano pirmas Hugo tinklalapio įrašas, sukurtas Debesų kompiuterijos laboratoriniam darbui.
+Prif-23/1&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
