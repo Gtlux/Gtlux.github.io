@@ -35,5 +35,12 @@
       <description>&lt;p&gt;Sveiki! Tai mano pirmas Hugo tinklalapio įrašas, sukurtas Debesų kompiuterijos laboratoriniam darbui.
 Prif-23/1&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Apie mane</title>
+      <link>https://gtlux.github.io/apie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gtlux.github.io/apie/</guid>
+      <description>&lt;p&gt;Esu Jaroslav Vetrenko, VILNIUS TECH studentas, grupė Prif-23/1. Šis tinklalapis sukurtas su Hugo ir talpinamas GitHub Pages.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
